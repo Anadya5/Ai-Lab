@@ -1,2 +1,2 @@
 # Ai-Lab
-Bayesian Networks and Autoregressive Language Models
+Contains all labwork for the course CSF407
